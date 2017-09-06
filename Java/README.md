@@ -10,4 +10,7 @@
 - #### [Control Flow Exc - 도형 그리기](https://github.com/qskeksq/Java_ControlFlow)
   - for문, if문 활용
 
+- #### [합 알고리즘](https://github.com/qskeksq/HowManyNumber)
+  - 제어문이 아닌 알고리즘을 통해 합 구하기
+
 ### Study
