@@ -4,13 +4,15 @@
 
 ### Basics
 
-- #### [Counting Machine - 잔돈 구하기](https://github.com/qskeksq/CountingMachine_for_method)
-  - 객체지향 함수의 이해
-
 - #### for문/if문 활용 연습
   - [Control Flow Exc - 도형 그리기](https://github.com/qskeksq/Java_ControlFlow)
   - [HowManyNumber - 숫자 개수 구하기](https://github.com/qskeksq/HowManyNumber)
   - [SimpleEquation - 1차 방정식 풀기](https://github.com/qskeksq/SimpleEquation)
+  - [Snail - 달팽이 만들기]()
+
+- #### [Counting Machine - 잔돈 구하기](https://github.com/qskeksq/CountingMachine_for_method)
+  - 객체지향 함수의 이해
+
 
 - #### [Algorithm - 알고리즘](https://github.com/qskeksq/Algorithm)
   - 알고리즘 이용 합 구하기
