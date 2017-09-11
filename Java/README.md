@@ -1,8 +1,7 @@
 # Java Programming :computer: :memo:
 ---
-## Contents :open_file_folder:
 
-## # Java Basic
+## __Java Basic__ :open_file_folder:
 - #### 상속
   - 상속을 통한 다형성 구현
   - [AnimalFarm](https://github.com/qskeksq/AnimalFarm)
@@ -10,7 +9,7 @@
 
 </br>
 
-## # Java Intermediate
+## __Java Intermediate__ :open_file_folder:
 -  #### [SOLID 객체지향 원칙](https://github.com/qskeksq/SOLID)
   - SRP/OCP/LSP/ISP/DIP
 - #### [JVM 메모리 구조](https://github.com/qskeksq/JVM_MemoryStructure)
@@ -24,7 +23,7 @@
 
 </br>
 
-## __# Excercise__
+## __Excercise__ :open_file_folder:
 
 - #### for문/if문 활용 연습
   - [Control Flow Exc - 도형 그리기](https://github.com/qskeksq/Java_ControlFlow)
