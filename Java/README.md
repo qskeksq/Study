@@ -15,7 +15,7 @@
 </br>
 
 - ## __Java Intermediate__ :open_file_folder:
-
+  - ---
   #### 1. [SOLID 객체지향 원칙](https://github.com/qskeksq/SOLID)
   - SRP/OCP/LSP/ISP/DIP
 
@@ -32,7 +32,7 @@
 </br>
 
 - ## __Java Excercise__ :open_file_folder:
-
+  - ---
   #### 1. for문/if문 활용 연습
   - [Control Flow Exc - 도형 그리기](https://github.com/qskeksq/Java_ControlFlow)
   - [HowManyNumber - 숫자 개수 구하기](https://github.com/qskeksq/HowManyNumber)
