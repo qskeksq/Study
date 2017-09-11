@@ -2,7 +2,7 @@
 
 ## Contents
 
-## # Java Basic
+## __# Java Basic__
 
 - #### 상속
   - 상속을 통한 다형성 구현
@@ -11,7 +11,7 @@
 
 </br>
 
-## # Java Intermediate
+## __# Java Intermediate__
 
 - #### [SOLID 객체지향 원칙](https://github.com/qskeksq/SOLID)
   - SRP/OCP/LSP/ISP/DIP
@@ -26,7 +26,7 @@
 
 </br>
 
-## # Excercise
+## __# Excercise__
 
 - #### for문/if문 활용 연습
   - [Control Flow Exc - 도형 그리기](https://github.com/qskeksq/Java_ControlFlow)
