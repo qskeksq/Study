@@ -1,9 +1,9 @@
-# Java Programming
+# Java Programming :computer: :memo:
 
-## Contents
+## Contents :open_file_folder:
 
-## __# Java Basic__
-
+## # Java Basic
+---
 - #### 상속
   - 상속을 통한 다형성 구현
   - [AnimalFarm](https://github.com/qskeksq/AnimalFarm)
@@ -11,9 +11,9 @@
 
 </br>
 
-## __# Java Intermediate__
-
-- #### [SOLID 객체지향 원칙](https://github.com/qskeksq/SOLID)
+## # Java Intermediate
+---
+-  #### [SOLID 객체지향 원칙](https://github.com/qskeksq/SOLID)
   - SRP/OCP/LSP/ISP/DIP
 - #### [JVM 메모리 구조](https://github.com/qskeksq/JVM_MemoryStructure)
 - #### [G.C 실험](https://github.com/qskeksq/GarbageCollector)
