@@ -1,8 +1,8 @@
 # Java Programming :computer: :memo:
----
+
 
 - ## __Java Basic__ :open_file_folder:
-
+  - ---
   #### 1. 상속
   - 상속을 통한 다형성 구현
   - [AnimalFarm](https://github.com/qskeksq/AnimalFarm)
@@ -49,23 +49,22 @@
   - 피보나치 수열
 
   #### 4. [ArrayBoard - 점수 입력 게시판](https://github.com/qskeksq/ArrayBoard)
-  - while/Scanner 사용 지속적 입력
   - 객체지향 메소드 분리
 
   #### 5. [BankAccount - 은행계좌](https://github.com/qskeksq/BankAccount)
-  - 공통속성 클래스화/POJO 데이터 클래스
-  - 데이터 캡슐화/getter, setter
-  - 데이터 CRUD 기초적인 흐름
+  - POJO 데이터 클래스
+  - 데이터 캡슐화
+  - CRUD 기초적인 흐름
 
-  #### 6. [Memo1 - 메모 게시판]()
+  #### 6. [Memo1 - 메모 게시판](https://github.com/qskeksq/Board_MVC_Files)
   - MVC 패턴 적용
   - Files 영구 저장소
 
-  #### 7. [Memo2 - 메모 게시판]()
+  #### 7. [Memo2 - 메모 게시판](https://github.com/qskeksq/Board_MVC_MySql/tree/master)
   - MVC 패턴 적용
   - MySql 연동
 
-  #### 8. [Memo3 - 메모 게시판]()
+  #### 8. [Memo3 - 메모 게시판](https://github.com/qskeksq/Board)
   - MVP 패턴 적용
   - Files 영구 저장소
   - Interface 설계
