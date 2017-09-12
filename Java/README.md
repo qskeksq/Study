@@ -10,13 +10,9 @@
   - 상속을 이용한 설계
     - [Hospital](https://github.com/qskeksq/Hospital)
 
-  ### 2. Generic
+  ### 2. [Collection](https://github.com/qskeksq/Collection)
 
-  ### 3. Annotation
-
-  ### 4. [Collection](https://github.com/qskeksq/Collection)
-
-  ### 5. [Exception](https://github.com/qskeksq/Exception)
+  ### #. [Exception](https://github.com/qskeksq/Exception)
 
 </br>
 
@@ -30,10 +26,10 @@
   - finalize() 실험
 
   ### 4. [String, StringBuffer, StringBuilder](https://github.com/qskeksq/String)
-  ### 5. 아키텍쳐 연구
-  - [MVC]()
-  - [MVP]()
-  - [MVVM]()
+  ### 5. [아키텍쳐]()
+  - MVC
+  - MVP
+  - MVVM
 
 </br>
 
