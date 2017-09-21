@@ -31,14 +31,13 @@
     - 애니메이션
     - 정규식 분리
 
-  ### [3. LaunchPad & 피아노]()
+  ### [3. LaunchPad & 피아노](https://github.com/qskeksq/AdapterView)
     - View 상속 커스텀뷰
-    - 뷰의 생명주기
-    - onAttachToView(), onDetachFromWindow(), onMeasure(), onLayout(), onDraw()
-    - onTouch()/invalidate
-    - MotionEvent, Pointer/멀티터치 구현
+    - 뷰의 생명주기 - onAttachToView(), onDetachFromWindow(), onMeasure(), onLayout(), onDraw()
+    - 터치 이벤트 - onTouchEvent()/invalidate()
+    - 멀티터치 구현
 
-  ### [4. ExpandableRecyclerView]()
+  ### [4. ExpandableRecyclerView](https://github.com/qskeksq/RecyclerView)
     - RecyclerView 추가 이해
     - Custom viewType 부모, 자식뷰 설정
     - Custom LayoutManager, ViewHolder
