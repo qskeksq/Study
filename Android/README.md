@@ -39,7 +39,7 @@
     - MotionEvent, Pointer/멀티터치 구현
 
   ### [4. ExpandableRecyclerView]()
-    - RecyclerView 구동 심화 이해
+    - RecyclerView 추가 이해
     - Custom viewType 부모, 자식뷰 설정
     - Custom LayoutManager, ViewHolder
     - Custom ItemAnimator - 추가, 삭제시 애니메이션
