@@ -1,5 +1,20 @@
 # Android Programming :computer: :memo:
 
+- ## __Android Study__ :open_file_folder:
+  - ---
+
+  ### [Animation](https://github.com/qskeksq/Animation)
+
+  ### [CustomView](https://github.com/qskeksq/CustomView)
+
+  ### [CustomListView](https://github.com/qskeksq/AdapterView)
+
+  ### [ExpandableRecyclerView](https://github.com/qskeksq/RecyclerView)
+
+  ### [Gradle](https://github.com/qskeksq/Gradle)
+
+  ### [LifeCycle]()
+
 
 - ## __Android Mini Project__ :open_file_folder:
   - ---
@@ -16,27 +31,22 @@
     - 애니메이션
     - 정규식 분리
 
-  ### [3. 런치패드 & 피아노]()
+  ### [3. LaunchPad & 피아노]()
+    - View 상속 커스텀뷰
+    - 뷰의 생명주기
+    - onAttachToView(), onDetachFromWindow(), onMeasure(), onLayout(), onDraw()
+    - onTouch()/invalidate
+    - MotionEvent, Pointer/멀티터치 구현
 
   ### [4. ExpandableRecyclerView]()
+    - RecyclerView 구동 심화 이해
+    - Custom viewType 부모, 자식뷰 설정
+    - Custom LayoutManager, ViewHolder
+    - Custom ItemAnimator - 추가, 삭제시 애니메이션
+    - Custom ItemDecorator
+    - ItemTouchHelper - 이동, 삭제시 Swipe, Drag & Drop 애니메이션
 
   ### [5. 슈팅게임 & 갤러그]()
 
 - ## __Android Project__ :open_file_folder:
   - ---
-
-
-- ## __Android Study__ :open_file_folder:
-  - ---
-
-  ### [Gradle](https://github.com/qskeksq/Gradle)
-
-  ### [Animation](https://github.com/qskeksq/Animation)
-
-  ### [CustomView](https://github.com/qskeksq/CustomView)
-
-  ### [CustomListView](https://github.com/qskeksq/AdapterView)
-
-  ### [ExpandableRecyclerView](https://github.com/qskeksq/RecyclerView)
-
-  ### [LifeCycle]()
