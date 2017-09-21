@@ -31,7 +31,7 @@
     - 애니메이션
     - 정규식 분리
 
-  ### [3. LaunchPad & 피아노](https://github.com/qskeksq/AdapterView)
+  ### [3. LaunchPad & 피아노](https://github.com/qskeksq/CustomView)
     - View 상속 커스텀뷰
     - 뷰의 생명주기 - onAttachToView(), onDetachFromWindow(), onMeasure(), onLayout(), onDraw()
     - 터치 이벤트 - onTouchEvent()/invalidate()
