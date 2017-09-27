@@ -13,6 +13,8 @@
 
   ### [ExpandingListView](https://github.com/qskeksq/ExpandingList)
 
+  ### [Camera & Album]()
+
   ### [Gradle](https://github.com/qskeksq/Gradle)
 
   ### [LifeCycle]()
@@ -50,6 +52,22 @@
     - ItemTouchHelper - 이동, 삭제시 Swipe, Drag & Drop 애니메이션
 
   ### [5. 슈팅게임 & 갤러그]()
+
+  ### [6. 오픈소스앱1 - BestFood](https://github.com/qskeksq/BestFood)
+    - 클아이언트(Android)-서버(Nodejs)-DB(MySql) 연동 이해
+    - Android
+      - 기획, 설계 : 서버, DB와 연동하는 안드로이드의 Information Architectur, Data Flow 이해
+      - 모듈화 : activity, fragment / item, Lib, remote / adapter, custom 분리
+      - 네트워크 통신
+    - Nodejs
+      - 서버 생성부터 데이터베이스, 클라이언트 연동, 통신 이해
+      - 서버 생성 -> (클라이언트 요청) -> 라우팅 -> RESTful -> request 분석 -> CRUD -> (DB 반영) ->response
+      - formidable 이미지 통신
+    - MySql
+      - 클라이언트에 적합하게 데이터를 보내주기 위한 데이터베이스 설계의 이해
+      - insert, select, delete, update 쿼리
+      - 테이블 join
+      - 다중 쿼리문
 
 - ## __Android Project__ :open_file_folder:
   - ---
