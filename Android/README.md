@@ -51,10 +51,8 @@
     - Custom ItemDecorator
     - ItemTouchHelper - 이동, 삭제시 Swipe, Drag & Drop 애니메이션
 
-  ### [5. 슈팅게임 & 갤러그]()
-
-  ### [6. 오픈소스앱1 - BestFood](https://github.com/qskeksq/BestFood)
-    - 클아이언트(Android)-서버(Nodejs)-DB(MySql) 연동 이해
+  ### [5. 오픈소스앱1 - BestFood](https://github.com/qskeksq/BestFood)
+    - 클라이언트(Android)-서버(Nodejs)-DB(MySql) 연동 이해
     - Android
       - 기획, 설계 : 서버, DB와 연동하는 안드로이드의 Information Architectur, Data Flow 이해
       - 모듈화 : activity, fragment / item, Lib, remote / adapter, custom 분리
@@ -68,6 +66,9 @@
       - insert, select, delete, update 쿼리
       - 테이블 join
       - 다중 쿼리문
+
+  ### [5. 슈팅게임 & 갤러그]()
+      
 
 - ## __Android Project__ :open_file_folder:
   - ---
