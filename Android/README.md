@@ -13,7 +13,17 @@
 
   ### [ExpandingListView](https://github.com/qskeksq/ExpandingList)
 
-  ### [Camera & Album]()
+  ### [Permission](https://github.com/qskeksq/Permission)
+
+  ### [Camera & Album](https://github.com/qskeksq/Camera)
+
+  ### [Media]()
+
+  ### [ContentResolver](https://github.com/qskeksq/ContentResolver)
+
+  ### [Thread](https://github.com/qskeksq/ThreadBasic)
+
+  ### [Service Basics](https://github.com/qskeksq/ServiceBasic)
 
   ### [Gradle](https://github.com/qskeksq/Gradle)
 
@@ -67,7 +77,7 @@
       - 테이블 join
       - 다중 쿼리문
 
-  ### [5. 슈팅게임 & 갤러그]()
+  ### [5. 슈팅게임 & 갤러그](https://github.com/qskeksq/Game)
       
 
 - ## __Android Project__ :open_file_folder:
