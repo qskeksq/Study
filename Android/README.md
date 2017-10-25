@@ -13,17 +13,24 @@
 
   ### [ExpandingListView](https://github.com/qskeksq/ExpandingList)
 
+  ### [Fragment]()
+    - 뮤직플레이어 끝나고 정리할 것
+
+  ### [ViewPager](https://github.com/qskeksq/ViewPager)
+
   ### [Permission](https://github.com/qskeksq/Permission)
 
   ### [Camera & Album](https://github.com/qskeksq/Camera)
-
-  ### [Media]()
 
   ### [ContentResolver](https://github.com/qskeksq/ContentResolver)
 
   ### [Thread](https://github.com/qskeksq/ThreadBasic)
 
   ### [Service Basics](https://github.com/qskeksq/ServiceBasic)
+
+  ### [Network Basics]()
+    - 이론 정리
+    - 버전 체크하는거 추가할 것
 
   ### [Gradle](https://github.com/qskeksq/Gradle)
 
@@ -77,8 +84,26 @@
       - 테이블 join
       - 다중 쿼리문
 
-  ### [5. 슈팅게임 & 갤러그](https://github.com/qskeksq/Game)
+  ### [6. 뮤직 플레이어1]()
+    - 뮤직플레이어 정리할 때 지난 기수에 한 것까지 모아서 정리할 것
+
+  ### [7. 뮤직 플레이어2]()
+
+  ### [8. 실시간 지하철 도착정보]()
+
+  ### [9. 상당한 메모]()
+
+  ### [10. 반복반복]()
+
+  ### [10. 슈팅게임 & 테트리스]()
       
 
 - ## __Android Project__ :open_file_folder:
   - ---
+
+  ### [1. ForImm]()
+  
+  ### [2. QT]()
+
+  ### [3. Psalms]()
+
