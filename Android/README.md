@@ -6,12 +6,18 @@
   ### [Animation](https://github.com/qskeksq/Animation)
 
   ### [CustomView](https://github.com/qskeksq/CustomView)
+  
+  ### [View Drag & Drop]()
+
+  ### [ViewDragHelper]()
 
   ### [CustomListView](https://github.com/qskeksq/AdapterView)
 
   ### [ExpandableRecyclerView](https://github.com/qskeksq/RecyclerView)
 
   ### [ExpandingListView](https://github.com/qskeksq/ExpandingList)
+
+  ### [ExpandingRecyclerView]()
 
   ### [Fragment]()
     - 뮤직플레이어 끝나고 정리할 것
@@ -31,6 +37,15 @@
   ### [Network Basics]()
     - 이론 정리
     - 버전 체크하는거 추가할 것
+    - Web Client
+    - Web Server
+    - Chatting Server & Client
+
+  ### [Dependency Injection Library](https://github.com/qskeksq/DependencyInjection)
+
+  ### [FireBase Basics](https://github.com/qskeksq/FirebaseBasic)
+    - NoSql 데이터 구조
+    - FireBase 실시간 데이터 저장과 동기화
 
   ### [Gradle](https://github.com/qskeksq/Gradle)
 
@@ -85,18 +100,35 @@
       - 다중 쿼리문
 
   ### [6. 뮤직 플레이어1]()
-    - 뮤직플레이어 정리할 때 지난 기수에 한 것까지 모아서 정리할 것
+    - MediaPlayer & Thread, Handler 사용의 이해
 
   ### [7. 뮤직 플레이어2]()
+    - MediaStore - 음악, 앨범, 아티스트, 장르로 분류/폴더 분류
+    - Observer Design Pattern
+    - Service, Foreground Service
+    - Notification, PendingIntent 적용 & Custom Notification
+    - ViewPager Smooth Scroll
+    - Blurred Background
 
   ### [8. 실시간 지하철 도착정보]()
+    - 외부 SQLite 데이터 로컬 데이터베이스로 사용, ORMLite 연동
+    - Remote에서 서버로부터 실시간 데이터 받아와 ViewPager 갱신
+    - ViewDragHelper, onTouch
+    - Singleton 적용과 이해
 
-  ### [9. 상당한 메모]()
+  ### [9. 메모1 - 로컬 기반 메모]()
 
-  ### [10. 반복반복]()
+  ### [10. 메모2 - 서버 기반 메모]()
+    - 로그인 기능 구현
+    - token 사용 user 상태 유지
+    - 서버 : Nodejs
+    - DB : MongoDB
 
-  ### [10. 슈팅게임 & 테트리스]()
-      
+  ### [11. Fiebase 채팅]()
+
+  ### [11. 반복반복]()
+
+  ### [12. 슈팅게임 & 테트리스]()
 
 - ## __Android Project__ :open_file_folder:
   - ---
