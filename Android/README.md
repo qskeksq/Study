@@ -40,12 +40,16 @@
     - Web Client
     - Web Server
     - Chatting Server & Client
+    - android HttpUrlConnection
+    - okhttp, retrofit
 
   ### [Dependency Injection Library](https://github.com/qskeksq/DependencyInjection)
 
-  ### [FireBase Basics](https://github.com/qskeksq/FirebaseBasic)
+  ### [FireBase1](https://github.com/qskeksq/Firebase1)
     - NoSql 데이터 구조
     - FireBase 실시간 데이터 저장과 동기화
+
+  ### [FireBase2]()
 
   ### [Gradle](https://github.com/qskeksq/Gradle)
 
@@ -119,8 +123,8 @@
   ### [9. 메모1 - 로컬 기반 메모]()
 
   ### [10. 메모2 - 서버 기반 메모]()
-    - 로그인 기능 구현
-    - token 사용 user 상태 유지
+    - Passport Auth 로그인 기능 구현
+    - token 사용 user 상태 유지, Cookie 관리
     - 서버 : Nodejs
     - DB : MongoDB
 
