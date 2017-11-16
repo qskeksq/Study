@@ -130,15 +130,7 @@
     - 터치 이벤트 - onTouchEvent()/invalidate()
     - 멀티터치 구현
 
-  ### [4. ExpandableRecyclerView](https://github.com/qskeksq/RecyclerView)
-    - RecyclerView 추가 이해
-    - Custom viewType 부모, 자식뷰 설정
-    - Custom LayoutManager, ViewHolder
-    - Custom ItemAnimator - 추가, 삭제시 애니메이션
-    - Custom ItemDecorator
-    - ItemTouchHelper - 이동, 삭제시 Swipe, Drag & Drop 애니메이션
-
-  ### [5. 오픈소스앱 분석1 - BestFood](https://github.com/qskeksq/BestFood)
+  ### [4. 오픈소스앱 분석1 - BestFood](https://github.com/qskeksq/BestFood)
     - 클라이언트(Android)-서버(Nodejs)-DB(MySql) 연동 이해
     - Android
       - 기획, 설계 : 서버, DB와 연동하는 안드로이드의 Information Architectur, Data Flow 이해
@@ -154,14 +146,14 @@
       - 테이블 join
       - 다중 쿼리문
 
-  ### [6. 뮤직 플레이어](https://github.com/qskeksq/MusicPlayer)
+  ### [5. 뮤직 플레이어](https://github.com/qskeksq/MusicPlayer)
     - ContentResolver 쿼리
 	- MediaStore 테이블 정리 - 음악, 앨범, 아티스트 분류
 	- MediaPlayer의 스레드와 스레드 연동
 	- Observer Design Pattern
 	- Service, Foreground Service
 
-  ### [7. Fiebase 채팅](https://github.com/qskeksq/FirebaseChat)
+  ### [6. Fiebase 채팅](https://github.com/qskeksq/FirebaseChat)
     - 파이어베이스를 통한 채팅 구현
     - 회원가입
     - 로그인
