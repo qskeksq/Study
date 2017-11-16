@@ -161,7 +161,7 @@
 	- Observer Design Pattern
 	- Service, Foreground Service
 
-  ### [7. Fiebase 채팅]()
+  ### [7. Fiebase 채팅](https://github.com/qskeksq/FirebaseChat)
     - 파이어베이스를 통한 채팅 구현
     - 회원가입
     - 로그인
