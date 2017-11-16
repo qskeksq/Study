@@ -11,27 +11,30 @@
     - [Hospital](https://github.com/qskeksq/Hospital)
 
   ### 2. [Collection](https://github.com/qskeksq/Collection)
+    - 자바 컬렉션 프레임워크 이해
+    - 1. List 인터페이스
+      - ArrayList - 순차 구조 방식
+      - Vector - ThreadSafe(Synchronized) ArrayList
+      - LinkedList - 연결 구조 방식
+      - Stack
+      - Queue
+    - 2. Set 인터페이스
+      - hashCode() / equals() 오버라이드
+      - HashSet
+      - TreeSet
+      - TreeSet Comparator<>
+      - TreeSet Comparable<>
+    - 3. Map 인터페이스
+      - HashMap<>
+      - Hashtable
+      - TreeMap
 
-  ### #. [Exception](https://github.com/qskeksq/Exception)
+
+  ### 3. [Exception](https://github.com/qskeksq/Exception)
+    - 간단한 예외처리 방식
 
 </br>
 
-- ## __Java Intermediate__ :open_file_folder:
-  - ---
-  ### 1. [SOLID 객체지향 원칙](https://github.com/qskeksq/SOLID)
-  - SRP/OCP/LSP/ISP/DIP
-
-  ### 2. [JVM 메모리 구조](https://github.com/qskeksq/JVM_MemoryStructure)
-  ### 3. [G.C 실험](https://github.com/qskeksq/GarbageCollector)
-  - finalize() 실험
-
-  ### 4. [String, StringBuffer, StringBuilder](https://github.com/qskeksq/String)
-  ### 5. [아키텍쳐]()
-  - MVC
-  - MVP
-  - MVVM
-
-</br>
 
 - ## __Java Excercise__ :open_file_folder:
   - ---
@@ -39,7 +42,8 @@
   - [Control Flow Exc - 도형 그리기](https://github.com/qskeksq/Java_ControlFlow)
   - [HowManyNumber - 숫자 개수 구하기](https://github.com/qskeksq/HowManyNumber)
   - [SimpleEquation - 1차 방정식 풀기](https://github.com/qskeksq/SimpleEquation)
-  - [Snail - 달팽이 만들기]()
+  - [Snail - 달팽이 만들기](https://github.com/qskeksq/DrawSnail)
+    - 복잡한 상황에서의 생각의 흐름
 
   ### 2. [Counting Machine - 잔돈 구하기](https://github.com/qskeksq/CountingMachine_for_method)
   - 메소드 사용(객체지향 함수의 이해)
@@ -70,6 +74,3 @@
   - MVP 패턴 적용
   - Files 영구 저장소
   - Interface 설계
-
-  ### 9. [NewList - 동적 객체배열 만들기]()
-  - Generic을 통한 동적객체배열
