@@ -1,41 +1,5 @@
 # Java Programming :computer: :memo:
 
-
-- ## __Java Basic__ :open_file_folder:
-  - ---
-  ### 1. 상속
-  - 상속을 통한 다형성 구현
-    - [AnimalFarm](https://github.com/qskeksq/AnimalFarm)
-    - [Family](https://github.com/qskeksq/Family)
-  - 상속을 이용한 설계
-    - [Hospital](https://github.com/qskeksq/Hospital)
-
-  ### 2. [Collection](https://github.com/qskeksq/Collection)
-    - 자바 컬렉션 프레임워크 이해
-    - 1. List 인터페이스
-      - ArrayList - 순차 구조 방식
-      - Vector - ThreadSafe(Synchronized) ArrayList
-      - LinkedList - 연결 구조 방식
-      - Stack
-      - Queue
-    - 2. Set 인터페이스
-      - hashCode() / equals() 오버라이드
-      - HashSet
-      - TreeSet
-      - TreeSet Comparator<>
-      - TreeSet Comparable<>
-    - 3. Map 인터페이스
-      - HashMap<>
-      - Hashtable
-      - TreeMap
-
-
-  ### 3. [Exception](https://github.com/qskeksq/Exception)
-    - 간단한 예외처리 방식
-
-</br>
-
-
 - ## __Java Excercise__ :open_file_folder:
   - ---
   ### 1. for문/if문 활용 연습
@@ -74,3 +38,51 @@
   - MVP 패턴 적용
   - Files 영구 저장소
   - Interface 설계
+
+- ## __Java Basic__ :open_file_folder:
+  - ---
+  ### 1. 상속
+  - 상속을 통한 다형성 구현
+    - [AnimalFarm](https://github.com/qskeksq/AnimalFarm)
+    - [Family](https://github.com/qskeksq/Family)
+  - 상속을 이용한 설계
+    - [Hospital](https://github.com/qskeksq/Hospital)
+
+  ### 2. [Collection](https://github.com/qskeksq/Collection)
+    - 자바 컬렉션 프레임워크 이해
+    - 1. List 인터페이스
+      - ArrayList - 순차 구조 방식
+      - Vector - ThreadSafe(Synchronized) ArrayList
+      - LinkedList - 연결 구조 방식
+      - Stack
+      - Queue
+    - 2. Set 인터페이스
+      - hashCode() / equals() 오버라이드
+      - HashSet
+      - TreeSet
+      - TreeSet Comparator<>
+      - TreeSet Comparable<>
+    - 3. Map 인터페이스
+      - HashMap<>
+      - Hashtable
+      - TreeMap
+
+
+  ### 3. [Exception](https://github.com/qskeksq/Exception)
+    - 간단한 예외처리 방식
+
+</br>
+
+
+- ## __Java DataStructure__ :open_file_folder:
+  - ---
+  ### DataStructure
+    - [LinkedList](https://github.com/qskeksq/LinkedList)
+
+  ### Algorithm
+    - [Sorting](https://github.com/qskeksq/Algorithm_Sort)
+      - Bubble Sort
+      - Selection Sort
+      - Quick Sort
+      - Merge Sort
+
