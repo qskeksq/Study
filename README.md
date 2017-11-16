@@ -39,4 +39,33 @@
         - Firbase 채팅
 
 - ### [JavaScript & Nodejs](https://github.com/qskeksq/Study/tree/master/Nodejs)
+    - Basics For JavaScript
+        - 자료형
+        - 조건문
+        - 객체
+        - 함수
+        - 생성자 함수
+        - 생성자 함수 상속
+        - 내장 객체
+        - 브라우저 객체 모델 1, 2
+        - 문서 객체 모델 1, 2
+        - 이벤트
+    - Basics for Nodejs
+        - Basics
+        - Basic module
+        - Nodejs event
+        - http module
+        - external module
+        - express module
+        - MySql
+        - MongoDB
+        - Express framework
+        - socket.io module
+        - RESTful
+    - Mini Project
+        - HTML Server
+        - HTML Express Server
+        - Login Server
+        - Bbs Server
+
 
