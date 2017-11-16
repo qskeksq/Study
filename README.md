@@ -71,17 +71,17 @@
 ## Project :open_file_folder:
 
 - ### [1. ForImm - 이주민 정보제공 어플리케이션](https://github.com/qskeksq/ForImm)
-    - 1. 이주민 노동센터 찾기
+    - 이주민 노동센터 찾기
         - 외부 SQLite 데이터베이스 입력
         - 맵프래그먼트, 마커, 현재위치 기반 검색
         - 이주민센터 검색(검색어에 의한 필터)
-    - 2. 한국 노동법 검색
+    - 한국 노동법 검색
         - ExpandableRecyclerView
         - ExpandableRecyclerView 검색어 필터링
         - 커스텀뷰
         - 커스텀뷰 애니메이션
-    - 3. 자주 묻는 질문
-    - 4. 이메일 컨설팅
+    - 자주 묻는 질문
+    - 이메일 컨설팅
         - ExpandableRecyclerView
         - 인텐트로 다중 데이터 보내기       
 
