@@ -1,5 +1,0 @@
-# Programming Study
-
-## Project
-
-## Subject
