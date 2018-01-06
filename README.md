@@ -98,18 +98,15 @@
     - 스크럼
     - 테스트
     - 코드정리
-- DataBase
+- [DataBase](https://github.com/qskeksq/thedaycoupon_DB)
     - 설계
     - 구현
     - 데이터 크롤링
     - 쿼리
     - Hosting
-- Backend Server
+- [Backend Server](https://github.com/qskeksq/thedaycoupon_Server)
     - Project Manage
     - 설계
-        - 어플리케이션 단위
-        - 설계 단위
-        - 구현 단위
     - 구현
         - server.js / app.js
         - router
@@ -119,14 +116,9 @@
         - response
         - module
     - Hosting
-- Android
+- [Android](https://github.com/qskeksq/thedaycoupon_Android)
     - Project Manage
     - 설계
-        - 어플리케이션 단위
-        - 설계 단위
-        - 구현 단위
-        - resource 단위
-        - assets 단위
     - 구현
         - domain
         - Launcher
