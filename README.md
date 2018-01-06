@@ -90,53 +90,53 @@
         
 ### [2. thedaycoupon - 특별한 날을 위한 쿠폰 모음 어플리케이션](https://github.com/qskeksq/thedaycoupon)
 
-#### Project Manage
-- 개발목표 & 기획목표
-- 설계패턴
-- 코딩원칙
-- 버전관리
-- 스크럼
-- 테스트
-- 코드정리
-#### DataBase
-- 설계
-- 구현
-- 데이터 크롤링
-- 쿼리
-- Hosting
-#### Backend Server
 - Project Manage
-- 설계
-    - 어플리케이션 단위
-    - 설계 단위
-    - 구현 단위
-- 구현
-    - server.js / app.js
-    - router
-    - controller
-    - dao
-    - database
-    - response
-    - module
-- Hosting
-#### Android
-- Project Manage
-- 설계
-    - 어플리케이션 단위
-    - 설계 단위
-    - 구현 단위
-    - resource 단위
-    - assets 단위
-- 구현
-    - domain
-    - Launcher
-    - 로그인/회원가입 & 회원관리 & 권한관리
-    - Main
-    - Detail
-    - Favorite
-    - Request
-    - Remote
-    - Util
-- 앱 등록
+    - 개발목표 & 기획목표
+    - 설계패턴
+    - 코딩원칙
+    - 버전관리
+    - 스크럼
+    - 테스트
+    - 코드정리
+- DataBase
+    - 설계
+    - 구현
+    - 데이터 크롤링
+    - 쿼리
+    - Hosting
+- Backend Server
+    - Project Manage
+    - 설계
+        - 어플리케이션 단위
+        - 설계 단위
+        - 구현 단위
+    - 구현
+        - server.js / app.js
+        - router
+        - controller
+        - dao
+        - database
+        - response
+        - module
+    - Hosting
+- Android
+    - Project Manage
+    - 설계
+        - 어플리케이션 단위
+        - 설계 단위
+        - 구현 단위
+        - resource 단위
+        - assets 단위
+    - 구현
+        - domain
+        - Launcher
+        - 로그인/회원가입 & 회원관리 & 권한관리
+        - Main
+        - Detail
+        - Favorite
+        - Request
+        - Remote
+        - Util
+    - 앱 등록
 
 
