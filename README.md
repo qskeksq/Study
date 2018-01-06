@@ -39,6 +39,7 @@
         - Firbase 채팅
      - Project
         - ForImm
+        - thedaycoupon
 
 - ### [JavaScript & Nodejs](https://github.com/qskeksq/Study/tree/master/Nodejs)
     - Basics For JavaScript
@@ -72,19 +73,70 @@
         
 ## Project :open_file_folder:
 
-- ### [1. ForImm - 이주민 정보제공 어플리케이션](https://github.com/qskeksq/ForImm)
-    - 이주민 노동센터 찾기
-        - 외부 SQLite 데이터베이스 입력
-        - 맵프래그먼트, 마커, 현재위치 기반 검색
-        - 이주민센터 검색(검색어에 의한 필터)
-    - 한국 노동법 검색
-        - ExpandableRecyclerView
-        - ExpandableRecyclerView 검색어 필터링
-        - 커스텀뷰
-        - 커스텀뷰 애니메이션
-    - 자주 묻는 질문
-    - 이메일 컨설팅
-        - ExpandableRecyclerView
-        - 인텐트로 다중 데이터 보내기       
+### [1. ForImm - 이주민 정보제공 어플리케이션](https://github.com/qskeksq/ForImm)
+- 이주민 노동센터 찾기
+    - 외부 SQLite 데이터베이스 입력
+    - 맵프래그먼트, 마커, 현재위치 기반 검색
+    - 이주민센터 검색(검색어에 의한 필터)
+- 한국 노동법 검색
+    - ExpandableRecyclerView
+    - ExpandableRecyclerView 검색어 필터링
+    - 커스텀뷰
+    - 커스텀뷰 애니메이션
+- 자주 묻는 질문
+- 이메일 컨설팅
+    - ExpandableRecyclerView
+    - 인텐트로 다중 데이터 보내기 
+        
+### [2. thedaycoupon - 특별한 날을 위한 쿠폰 모음 어플리케이션](https://github.com/qskeksq/thedaycoupon)
+
+- Project Manage
+    - 개발목표 & 기획목표
+    - 설계패턴
+    - 코딩원칙
+    - 버전관리
+    - 스크럼
+    - 테스트
+    - 코드정리
+- DataBase
+    - 설계
+    - 구현
+    - 데이터 크롤링
+    - 쿼리
+    - Hosting
+- Backend Server
+    - Project Manage
+    - 설계
+        - 어플리케이션 단위
+        - 설계 단위
+        - 구현 단위
+    - 구현
+        - server.js / app.js
+        - router
+        - controller
+        - dao
+        - database
+        - response
+        - module
+    - Hosting
+- Android
+    - Project Manage
+    - 설계
+        - 어플리케이션 단위
+        - 설계 단위
+        - 구현 단위
+        - resource 단위
+        - assets 단위
+    - 구현
+        - domain
+        - Launcher
+        - 로그인/회원가입 & 회원관리 & 권한관리
+        - Main
+        - Detail
+        - Favorite
+        - Request
+        - Remote
+        - Util
+    - 앱 등록
 
 
