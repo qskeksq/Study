@@ -52,7 +52,7 @@
 - ## Project
     - ---  
     
-    ### [TheDayCoupon server](https://github.com/qskeksq/thedaycoupon_Server)
+    ### [thedaycoupon server](https://github.com/qskeksq/thedaycoupon_Server)
     - Project Manage
         - 개발목표 & 기획목표
         - 설계패턴
