@@ -32,7 +32,7 @@
     - [FileSystem](https://github.com/qskeksq/nodejs_fs)
     - [Winston](https://github.com/qskeksq/nodejs_winston)
     - [Cookie, Session](https://github.com/qskeksq/Nodejs_Cookie)
-    - [Passport](https://github.com/qskeksq/Nodejs_Passport)
+    - [Passport Auth](https://github.com/qskeksq/Nodejs_Passport)
     - [Password Hashing](https://github.com/qskeksq/Nodejs_Crypt)
 
 - ## Mini Project
