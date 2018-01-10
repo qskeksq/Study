@@ -6,10 +6,19 @@
 
 - ### [Java](https://github.com/qskeksq/Study/tree/master/Java)
     - 자바 Basics
-    - for문/if문 활용 연습
+        - 상속 & 다형성
+        - Collection
+        - Exception
+    - for문/if문 활용 연습
     - MVC, MVP 아키텍쳐 기본
-    - 자바 알고리즘
-    - 자바 자료구조
+    - Java DataStructure
+        - LinkedList
+    - Java Algorithm
+        - Bubble Sort
+        - Selection Sort
+        - Quick Sort
+        - Merge Sort
+    
 
 - ### [Android](https://github.com/qskeksq/Study/tree/master/Android)
     - Android Study
@@ -90,7 +99,7 @@
         
 - ### [2. thedaycoupon - 특별한 날을 위한 쿠폰 모음 어플리케이션](https://github.com/qskeksq/thedaycoupon)
 
-    - Project Manage
+    - __Project Manage__
         - 개발목표 & 기획목표
         - 설계패턴
         - 코딩원칙
@@ -98,7 +107,7 @@
         - 스크럼
         - 테스트
         - 코드정리
-    - [DataBase](https://github.com/qskeksq/thedaycoupon_DB)
+    - [__DataBase__](https://github.com/qskeksq/thedaycoupon_DB)
         - code 테이블
         - 버전 테이블
         - 메인 데이터 테이블
@@ -107,7 +116,7 @@
         - 즐겨찾기 테이블
         - 쿠폰 요청 테이블
         - 잘못된 정보 테이블
-    - [Backend Server](https://github.com/qskeksq/thedaycoupon_Server)
+    - [__Backend Server__](https://github.com/qskeksq/thedaycoupon_Server)
         - server.js
         - router
         - controller
@@ -115,7 +124,7 @@
         - database
         - response
         - module
-    - [Android](https://github.com/qskeksq/thedaycoupon_Android)
+    - [__Android__](https://github.com/qskeksq/thedaycoupon_Android)
         - domain
         - Launcher
         - 로그인/회원가입 & 회원관리 & 권한관리
