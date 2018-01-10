@@ -30,7 +30,7 @@
     
     ### Nodejs Study
     - [FileSystem](https://github.com/qskeksq/nodejs_fs)
-    - [winston](https://github.com/qskeksq/nodejs_winston)
+    - [Winston](https://github.com/qskeksq/nodejs_winston)
 
 - ## Mini Project
     - ---  
