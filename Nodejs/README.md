@@ -28,7 +28,7 @@
     - socket.io module
     - RESTful
     
-    ### Nodejs Study
+    ### Nodejs Study
     - [FileSystem](https://github.com/qskeksq/nodejs_fs)
     - [winston](https://github.com/qskeksq/nodejs_winston)
 
