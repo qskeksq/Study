@@ -34,9 +34,6 @@
 
 - ## Mini Project
     - ---  
-   
-    ### [Dummy Server](https://github.com/qskeksq/Dummy_Server)
-    - 더미데이터 Nodejs 서버
     
     ### [HTML Server](https://github.com/qskeksq/HTML_Server)
     - HTML Nodejs 서버
