@@ -27,6 +27,10 @@
     - Express framework
     - socket.io module
     - RESTful
+    
+    ### Nodejs Study
+    - [FileSystem](https://github.com/qskeksq/nodejs_fs)
+    - [winston](https://github.com/qskeksq/nodejs_winston)
 
 - ## Mini Project
     - ---  
@@ -44,3 +48,84 @@
     ### [Bbs Server](https://github.com/qskeksq/Nodejs_Bbs)
     - 안드로이드 클라이언트 통신 Nodejs 게시판 서버
     - MongoDB 데이터베이스 연동
+    
+- ## Project
+    - ---  
+    
+    ### [TheDayCoupon server](https://github.com/qskeksq/thedaycoupon_Server)
+    #### 1. Project Manage
+    - 개발목표 & 기획목표
+    - 설계패턴
+    - 코딩원칙
+    - 버전관리
+    - 스크럼
+    - 테스트
+    - 코드정리
+    - 공부정리
+
+    #### 2. 설계
+    - 어플리케이션 단위
+        - 버전관리
+        - 보안관리
+    - 설계 단위
+        - 서버 설계 패턴
+        - 관리, 디버깅 모듈
+        - 내부 모듈화
+        - server
+        - REST
+        - controller
+        - dao/database
+        - 응답설계
+        - 콜백체인
+        - 외부모듈
+    - 구현 단위
+
+    #### 3. 구현 
+
+    #### 관리모듈
+    - 코드관리모듈
+    - 로그 & Exception
+    - 자동실행
+
+    #### (1) server.js / app.js
+    - 데이터베이스 연결
+    - 서버 생성 & 연결
+
+    #### (2) router
+    - METHOD
+    - REST 설계
+
+    #### (3) controller
+    - member
+    - version
+    - coupon
+    - detail_photo
+    - logo
+    - favorite
+    - wrong_info
+    - request_coupon
+
+    #### (4) dao
+    - controllerDao
+
+    #### (5) database
+    - connect
+    - executeRaw
+    - executeByValues
+
+    #### (6) response
+    - err
+    - res
+
+    #### (7) module
+    - private_module
+    - config
+        - db_options
+        - secret
+        - host
+        - port
+    - public
+
+    #### 4. 원격서버
+    - ssh 서버 접속
+    - 노드 관리 NVM
