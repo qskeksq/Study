@@ -6,9 +6,6 @@
 
 - ### [Java](https://github.com/qskeksq/Study/tree/master/Java)
     - 자바 Basics
-        - 상속 & 다형성
-        - Collection
-        - Exception
     - for문/if문 활용 연습
     - MVC, MVP 아키텍쳐 기본
     - Java DataStructure
