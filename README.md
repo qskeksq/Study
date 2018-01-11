@@ -71,6 +71,13 @@
         - Express framework
         - socket.io module
         - RESTful
+    - Nodejs Study
+        - FileSystem
+        - Winston
+        - Cookie
+        - Session
+        - Passport Auth
+        - Password Hashing
     - Mini Project
         - HTML Server
         - HTML Express Server
