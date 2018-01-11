@@ -177,6 +177,47 @@
     - 4. 이메일 컨설팅
         - ExpandableRecyclerView
         - 인텐트로 다중 데이터 보내기
+	
+- ### [2. thedaycoupon - 특별한 날을 위한 쿠폰 모음 어플리케이션](https://github.com/qskeksq/thedaycoupon)
+
+    - __Project Manage__
+        - 개발목표 & 기획목표
+        - 설계패턴
+        - 코딩원칙
+        - 버전관리
+        - 스크럼
+        - 테스트
+        - 코드정리
+    - [__DataBase__](https://github.com/qskeksq/thedaycoupon_DB)
+        - code 테이블
+        - 버전 테이블
+        - 메인 데이터 테이블
+        - 서브 데이터 테이블
+        - 회원 테이블
+        - 즐겨찾기 테이블
+        - 쿠폰 요청 테이블
+        - 잘못된 정보 테이블
+    - [__Backend Server__](https://github.com/qskeksq/thedaycoupon_Server)
+        - server.js
+        - router
+        - controller
+        - dao
+        - database
+        - response
+        - module
+    - [__Android__](https://github.com/qskeksq/thedaycoupon_Android)
+        - domain
+        - Launcher
+        - 로그인/회원가입 & 회원관리 & 권한관리
+        - Main
+        - Detail
+        - Favorite
+        - Request
+        - Remote
+        - Util
+
+
+
 
 
 
