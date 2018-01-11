@@ -49,7 +49,7 @@
     
     ### [Login Server](https://github.com/qskeksq/SignIn)
     - 안드로이드 클라이언트 통신 Nodejs 로그인 서버
-    - MongoDB 데이터베이스 연동
+    - MongoDB 데이터베이스 연동
 
     ### [Bbs Server](https://github.com/qskeksq/Nodejs_Bbs)
     - 안드로이드 클라이언트 통신 Nodejs 게시판 서버
