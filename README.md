@@ -77,7 +77,6 @@
         - Cookie
         - Session
         - Passport Auth
-        - Password Hashing
     - Mini Project
         - HTML Server
         - HTML Express Server
