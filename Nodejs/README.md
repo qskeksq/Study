@@ -34,7 +34,6 @@
     - [Cookie](https://github.com/qskeksq/Nodejs_Cookie)
     - [Session](https://github.com/qskeksq/Nodejs_Session)
     - [Passport Auth](https://github.com/qskeksq/Nodejs_Passport)
-    - [Password Hashing](https://github.com/qskeksq/Nodejs_Crypt)
 
 - ## Mini Project
     - ---  
