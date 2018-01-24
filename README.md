@@ -35,6 +35,7 @@
         - FireBase2
         - RxAndroid
         - Data Binding
+        - MVVM
     - Android Library Develpment
         - CustomTabIndicator
         - ExpandableRecyclerView
