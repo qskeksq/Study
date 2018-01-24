@@ -95,7 +95,7 @@
     - POJO 데이터 바인딩, 이벤트 바인딩
     - POJO 변경 notify
     - import, @BindingAdapter, @BindingConversion
-    - 레이아웃 재활용
+    - 레이아웃 재활용
 
    
 - ## __Android Library Develpment__ :open_file_folder:
