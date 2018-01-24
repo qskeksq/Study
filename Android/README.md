@@ -83,26 +83,20 @@
     - 실시간 데이터베이스
     - 클라우드 메시징
     
-  ### [FireBase2](https://github.com/qskeksq/FireBase2)
-    - 파이어베이스 로그인 인증처리
-    - 이미지 파일 업로드
-    - 실시간 데이터베이스
-    - 클라우드 메시징
-    
   ### [RxAndroid](https://github.com/qskeksq/RxAndroid)
     - ReactiveX 이해
-    - Observable 구독, 발행, 관리
-    - 오퍼레이터
-    - Rx 스레드
-    - Rx 네트워크 통신
+    - Observable 구독, 발행, 관리
+    - 오퍼레이터
+    - Rx 스레드
+    - Rx 네트워크 통신
     
-  ### [Data Binding](https://github.com/qskeksq/DataBinding)
-    - Android Data Binding 이해
-    - POJO 데이터 바인딩, 이벤트 바인딩
-    - POJO 변경시 notify
-    - import 다루기
-    - @BindingAdapter, @BindingConversion
-    - 레이아웃 
+   ### [Data Binding](https://github.com/qskeksq/DataBinding)
+    - Android Data Binding 이해
+    - POJO 데이터 바인딩, 이벤트 바인딩
+    - POJO 변경 notify
+    - import, @BindingAdapter, @BindingConversion
+    - 레이아웃 재활용
+
    
 - ## __Android Library Develpment__ :open_file_folder:
   - ---
