@@ -83,8 +83,14 @@
     - 실시간 데이터베이스
     - 클라우드 메시징
     
+  ### [FireBase2](https://github.com/qskeksq/FireBase2)
+    - 파이어베이스 로그인 인증처리
+    - 이미지 파일 업로드
+    - 실시간 데이터베이스
+    - 클라우드 메시징
+    
   ### [RxAndroid](https://github.com/qskeksq/RxAndroid)
-    - ReactiveX 이해
+    - ReactiveX 이해
     - Observable 구독, 발행, 관리
     - 오퍼레이터
     - Rx 스레드
