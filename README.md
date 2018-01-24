@@ -33,6 +33,8 @@
         - Dependency Injection Library
         - FireBase1
         - FireBase2
+        - RxAndroid
+        - Data Binding
     - Android Library Develpment
         - CustomTabIndicator
         - ExpandableRecyclerView
